@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fashions &#8211; Web Agency Demo 1</title>
+	<atom:link href="https://nguyenthanhphuc1910.github.io/wordpressCK/danh-muc-san-pham/fashions/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenthanhphuc1910.github.io/wordpressCK</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 06 Oct 2022 12:03:08 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Fashion Mangto</title>
+		<link>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/fashion-mangto/</link>
+					<comments>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/fashion-mangto/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuc]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 12:00:07 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuc1910.github.io/wordpressCK/?post_type=product&#038;p=301</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt condimentum felis, et tempor neque rhoncus ac. Proin elementum, felis id placerat dapibus, purus ipsum lobortis tellus, ut vehicula nisl metus eget arcu.]]></description>
+										<content:encoded><![CDATA[<p>Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit. Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit.</p>
+<p>Qenean commodo ligula eget dolor. Aenean massa. Cumt sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla onsequat mas quis enim. Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit. Viva mus semper cursus libero</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/fashion-mangto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Engage Task Stool</title>
+		<link>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/engage-task-stool-2/</link>
+					<comments>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/engage-task-stool-2/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuc]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:57:51 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuc1910.github.io/wordpressCK/?post_type=product&#038;p=294</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt condimentum felis, et tempor neque rhoncus ac. Proin elementum, felis id placerat dapibus, purus ipsum lobortis tellus, ut vehicula nisl metus eget arcu.]]></description>
+										<content:encoded><![CDATA[<p>Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit. Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit.</p>
+<p>Qenean commodo ligula eget dolor. Aenean massa. Cumt sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla onsequat mas quis enim. Donec pede justo, fringilla vel, aliquet nec, vulpu tate eget. Sed quia consequuntur magni dolores. Id eges tas massa sem et elit. Viva mus semper cursus libero</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/engage-task-stool-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
