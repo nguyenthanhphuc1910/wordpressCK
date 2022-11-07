@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Collection Drinks Fresh &#8211; Web Agency Demo 1</title>
+	<title>Collection Drinks Fresh</title>
 	<atom:link href="https://nguyenthanhphuc1910.github.io/wordpressCK/tu-khoa-san-pham/collection-drinks-fresh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthanhphuc1910.github.io/wordpressCK</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Thu, 06 Oct 2022 07:15:54 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>iPad 4 16Gb</title>
 		<link>https://nguyenthanhphuc1910.github.io/wordpressCK/san-pham/ipad-4-16gb/</link>
